@@ -1,6 +1,6 @@
 {
 	"name": "nuget-gallery-mgr",
-	"displayName": "NuGet Gallery",
+	"displayName": "VS NuGet packages manager",
 	"publisher": "BogdanTasciuc",
 	"description": "NuGet Gallery Extension makes installing and uninstalling NuGet packages easier",
 	"license": "ISC",
