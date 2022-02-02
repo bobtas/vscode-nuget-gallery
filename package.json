@@ -4,7 +4,7 @@
 	"publisher": "BogdanTasciuc",
 	"description": "NuGet Gallery Extension makes installing and uninstalling NuGet packages easier",
 	"license": "ISC",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"preview": true,
 	"icon": "docs/images/icon.png",
 	"engines": {
@@ -25,7 +25,7 @@
 		"commands": [
 			{
 				"command": "extension.start",
-				"title": "Open NuGet Gallery",
+				"title": "Open NuGet Package Manager",
 				"category": "NuGet"
 			}
 		],
@@ -39,7 +39,7 @@
 			]
 		},
 		"configuration": {
-			"title": "NuGet Gallery",
+			"title": "NuGet Package Manager",
 			"properties": {
 				"NugetGallery.credentialProviderFolder": {
 					"type": "string",
